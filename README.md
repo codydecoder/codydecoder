@@ -1,7 +1,7 @@
--  Hi, I’m Cody Cadena, aka @codydecoder
+-  Hi, I’m Cody Cadena (@codydecoder)
 -  I’m interested in AI, Machine Learning, and utilizing software to make our lives better.
 -  I primarily use the MERN stack but am always excited to learn new frameworks.
--  I’m looking to collaborate on any project that I can show off to future employers.
+-  I’m open to any collaborations that will add to my portfolio.
 
 <!---
 codydecoder/codydecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

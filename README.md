@@ -1,5 +1,5 @@
 -  Hi, I’m Cody Cadena (@codydecoder)
--  I’m interested in AI, Web3, and utilizing software to make our lives better.
+-  I’m interested in Web3, AI, and utilizing software to make our lives better.
 -  I primarily use the MERN stack but am always excited to learn new frameworks.
 -  I’m open to any collaborations that will add to my portfolio.
 
